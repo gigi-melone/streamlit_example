@@ -103,9 +103,9 @@ def download_file(file_path):
 IMAGE_TYPES = ["png", "jpg"]
 
 EXTERNAL_DEPENDENCIES = {
-    "perumixed3.pkl": {
-        "url": "https://www.dropbox.com/s/31e6wuwrlm66sco/perumixed3.pkl?dl=1",
-        "size": 179319095
+    "example_cws_1.pkl": {
+        "url": "https://drive.google.com/file/d/1jIk-ynTrEHlk5kYXffjBcKnimGggMjrE/view?usp=share_link",
+        "size": 179191543
     }
 }
 
